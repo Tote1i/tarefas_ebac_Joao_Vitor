@@ -1,0 +1,26 @@
+Algoritmo RotinaAoAcordar
+
+// Tarefas ao acordar
+Escreva("Bom dia!")
+Escreva("Hora de acordar e começar o dia.")
+
+// Higiene pessoal
+Escreva("Vou escovar os dentes.")
+Escreva("Vou lavar o rosto.")
+Escreva("Vou tomar um banho.")
+
+// Vestir-se
+Escreva("Vou escolher uma roupa.")
+Escreva("Vou vestir a roupa escolhida.")
+
+// Alimentação
+Escreva("Vou preparar e tomar o café da manhã.")
+
+// Preparação para o dia
+Escreva("Vou verificar a agenda do dia.")
+Escreva("Vou pegar os itens necessários para o dia (bolsa, chaves, etc.).")
+
+// Finalização da rotina
+Escreva("Estou pronto(a) para começar o dia!")
+
+FimAlgoritmo
