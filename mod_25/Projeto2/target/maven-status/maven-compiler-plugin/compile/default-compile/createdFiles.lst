@@ -1,0 +1,13 @@
+com/ebac/reflections/anotacao/cadastro/service/generic/IGenericService.class
+anotacao/TipoChave.class
+com/ebac/reflections/anotacao/cadastro/domain/Persistente.class
+com/ebac/reflections/anotacao/cadastro/dao/generic/GenericDao.class
+com/ebac/services/IClienteService.class
+com/ebac/reflections/anotacao/cadastro/dao/generic/IGenericDao.class
+com/ebac/services/ClienteService.class
+com/ebac/reflections/anotacao/cadastro/dao/generic/SingletonMap.class
+com/ebac/reflections/anotacao/cadastro/exception/TipoChaveNaoEncontradaException.class
+com/ebac/dao/ClienteDao.class
+com/ebac/dao/IClienteDao.class
+com/ebac/domain/Cliente.class
+com/ebac/reflections/anotacao/cadastro/service/generic/GenericService.class
